@@ -7,7 +7,7 @@
   Função auxiliar de criação de um novo filho
 
   @parâmetros:
-    -Abb* pai: ponteir para o pai do novo nó a ser criado
+    -Abb* pai: ponteiro para o pai do novo nó a ser criado
     -chave: valor inteiro a ser inserido no nó criado
 */
 Abb* abb_novoFilho(Abb* pai, int chave) {
